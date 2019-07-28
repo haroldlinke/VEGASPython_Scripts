@@ -24,7 +24,7 @@ The extension provides two options:
         an interactive dockable VEGASPython Window
         executing Scripts located in a specific folder and integrate them into the VEGAS User Interface like other C# Scripts
 
-## Download and Installation
+## Prerequisite
 
 if you want to test VEGASPython you need following items:
 
@@ -33,3 +33,8 @@ if you want to test VEGASPython you need following items:
       VEGASPython: https://www.hlinke.de/dokuwiki/doku.php?id=en:vegas_python_download
 
 The download of VEGASPython already includes several example Python Scripts.
+
+## Installation
+
+After you have installed VEGASPython, download one script or all scripts and copy them into the folder VEGASPython_PN that you can find under the VEGASPython installation folder.
+
