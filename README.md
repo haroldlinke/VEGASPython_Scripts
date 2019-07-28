@@ -1,7 +1,7 @@
 # VEGASPython_Scripts
-Scripts for VEGASPython
+Here you can find examples for Python scripts for VEGASPython
 
-This repository contains Python scripts for VEGASPython
+You can find more details on VEGASPython here:
 
 github: https://github.com/haroldlinke/VEGASPython
 
