@@ -32,4 +32,4 @@ if you want to test VEGASPython you need following items:
 
       VEGASPython: https://www.hlinke.de/dokuwiki/doku.php?id=en:vegas_python_download
 
-The dwonload of VEGASPython already includes several example Python Scripts.
+The download of VEGASPython already includes several example Python Scripts.
