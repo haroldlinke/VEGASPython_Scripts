@@ -32,5 +32,4 @@ if you want to test VEGASPython you need following items:
 
       VEGASPython: https://www.hlinke.de/dokuwiki/doku.php?id=en:vegas_python_download
 
-Unfortunately the complete ZIP file is too big to be provided in GITHUB.
-All file from the ZIP file are available here except a complete Python37 installation includeing NumPy and OpenCV for python.
+The dwonload of VEGASPython already includes several example Python Scripts.
